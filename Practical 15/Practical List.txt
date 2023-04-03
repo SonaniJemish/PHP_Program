@@ -1,0 +1,5 @@
+1.   Write PHP script to demonstrate use of Date/Time functions
+2.   Write PHP script to demonstrate use of Math functions
+3.   Write a PHP script to convert a date from yyyy-mm-dd to dd-mm-yyyy
+4.   Create a simple 'birthday countdown' PHP script, the script will count the 
+number of days between current day and birthday

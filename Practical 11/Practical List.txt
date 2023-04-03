@@ -1,0 +1,4 @@
+1.   Write PHP Script to check whether a given number is palindrome or not
+2.   Write PHP script to calculate total marks of five subjects and display grade. 
+3.   Write a PHP script to test whether a number is greater than 30, 20 or 10 using 
+ternary operator.

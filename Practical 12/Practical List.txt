@@ -1,0 +1,2 @@
+1.   Write a PHP script to find reverse no of given number.
+2. Write a PHP script to print fibonacci series for given number.

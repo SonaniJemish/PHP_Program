@@ -1,0 +1,3 @@
+Develop form using text box, check box, radio button, select, submit button. And 
+display user inserted value in new PHP page ( E.g.  student registration form / 
+inventory form / library form)

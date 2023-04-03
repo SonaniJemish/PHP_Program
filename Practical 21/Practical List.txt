@@ -1,0 +1,5 @@
+1. Create database for Student and Personal Detail Table having field such as 
+Enrollment number, Name, Semester, Department, DOB, Contact Number, SPI 
+etc using phpMyAdmin.
+2.   Write PHP script to insert data into the Personal Detail table,read from table and 
+display all these information in tabular form on output screen.

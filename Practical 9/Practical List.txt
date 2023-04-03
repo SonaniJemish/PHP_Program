@@ -1,0 +1,6 @@
+1.   Write a PHP script to display your Student Name and Enrollment Number.
+2.   Write a PHP script to get the client IP address
+3.   Write a PHP script to get the current file name
+4.   Write a PHP script to print current PHP version
+5.   Write  a  PHP  script  to  demonstrate  use  of  arithmetic  operators,  comparison 
+	operators, and logical operators.

@@ -1,0 +1,2 @@
+1. Write two different PHP script to demonstrate passing variables with sessions.
+2.   Write PHP script to demonstrate passing variables with cookies.
